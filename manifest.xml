@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://skayth1997.github.io/factorial-excel-add-in/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://skayth1997.github.io/factorial-excel-add-in/"/>
   <AppDomains>
-    <AppDomain>https://localhost:3000</AppDomain>
+    <AppDomain>https://skayth1997.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
