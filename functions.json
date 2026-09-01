@@ -1,0 +1,20 @@
+{
+    "allowCustomDataForDataTypeAny": true,
+    "functions": [
+        {
+            "description": "Returns factorials from 0! through N! as a spill range.",
+            "id": "FACTORIALROW",
+            "name": "FACTORIALROW",
+            "parameters": [
+                {
+                    "description": "Maximum factorial index.",
+                    "name": "n",
+                    "type": "number"
+                }
+            ],
+            "result": {
+                "dimensionality": "matrix"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"commands.js","mappings":"AAAAA,OAAOC,QAAQ","sources":["webpack://factorial-add-in/./src/commands/commands.ts"],"sourcesContent":["Office.onReady(() => {});\n"],"names":["Office","onReady"],"sourceRoot":""}
